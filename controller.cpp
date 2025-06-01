@@ -7,8 +7,8 @@ bool mouseRightDown = false;
 
 void keyboard(unsigned char key, int x, int y) {
     switch (key) {
-    case 'w': game.changeDirection(FORWARD); break;
-    case 's': game.changeDirection(BACKWARD); break;
+    case 's': game.changeDirection(FORWARD); break;
+    case 'w': game.changeDirection(BACKWARD); break;
     case 'a': game.changeDirection(LEFT); break;
     case 'd': game.changeDirection(RIGHT); break;
     case 'q': game.changeDirection(UP); break;

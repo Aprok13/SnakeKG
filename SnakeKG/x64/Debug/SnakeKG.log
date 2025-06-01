@@ -1,15 +1,2 @@
 ﻿  controller.cpp
-  game.cpp
-C:\Users\Виталик\Desktop\SnakeKG-master\game.cpp(29,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Виталик\Desktop\SnakeKG-master\game.cpp(30,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Виталик\Desktop\SnakeKG-master\game.cpp(31,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Виталик\Desktop\SnakeKG-master\game.cpp(467,44): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Виталик\Desktop\SnakeKG-master\game.cpp(467,39): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
-  graphics.cpp
-C:\Users\Виталик\Desktop\SnakeKG-master\graphics.cpp(27,28): warning C4305: инициализация: усечение из "double" в "GLfloat"
-C:\Users\Виталик\Desktop\SnakeKG-master\graphics.cpp(27,33): warning C4305: инициализация: усечение из "double" в "GLfloat"
-C:\Users\Виталик\Desktop\SnakeKG-master\graphics.cpp(27,38): warning C4305: инициализация: усечение из "double" в "GLfloat"
-  main.cpp
-C:\Users\Виталик\Desktop\SnakeKG-master\main.cpp(5,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Создание кода...
   SnakeKG.vcxproj -> C:\Users\Виталик\Desktop\SnakeKG-master\x64\Debug\SnakeKG.exe

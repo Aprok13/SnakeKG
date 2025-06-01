@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|solutionrelative:controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|solutionrelative:common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|solutionrelative:graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|solutionrelative:controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{06A9280C-D8A7-490D-B53E-C992F8D6DD2C}|SnakeKG.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +50,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "common.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\common.h",
+              "RelativeDocumentMoniker": "common.h",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\common.h",
+              "RelativeToolTip": "common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-01T21:49:56.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "controller.cpp",
               "DocumentMoniker": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\controller.cpp",
               "RelativeDocumentMoniker": "controller.cpp",
               "ToolTip": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\controller.cpp",
               "RelativeToolTip": "controller.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-01T18:18:00.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "graphics.cpp",
               "DocumentMoniker": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\graphics.cpp",
               "RelativeDocumentMoniker": "graphics.cpp",
@@ -67,44 +84,43 @@
               "RelativeToolTip": "graphics.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-01T16:31:49.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T16:31:49.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-01T16:30:52.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "game.h",
               "DocumentMoniker": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\game.h",
               "RelativeDocumentMoniker": "game.h",
-              "ToolTip": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\game.h*",
-              "RelativeToolTip": "game.h*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAATAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-01T16:14:33.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "game.cpp",
               "DocumentMoniker": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\game.cpp",
               "RelativeDocumentMoniker": "game.cpp",
-              "ToolTip": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\game.cpp*",
-              "RelativeToolTip": "game.cpp*",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAJUAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u043A\\Desktop\\SnakeKG-master\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoBAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-30T11:51:18.912Z",
               "EditorCaption": ""

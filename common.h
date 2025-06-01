@@ -9,8 +9,8 @@
 #include <sstream>
 #include <cmath>
 
-const int WIDTH = 800;
-const int HEIGHT = 600;
+const int WIDTH = 1920;
+const int HEIGHT = 1080;
 const int GRID_SIZE = 15;
 const float CELL_SIZE = 2.0f / GRID_SIZE;
 const float MOVE_SPEED = 0.1f;

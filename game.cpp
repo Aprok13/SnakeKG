@@ -408,38 +408,19 @@ void Snake3DGame::drawHUD() {
 
     // Score
     glColor3f(1.0f, 1.0f, 1.0f);
-    glRasterPos2f(10, HEIGHT - 20);
+    glRasterPos2f(50, HEIGHT - 100);
     std::ostringstream scoreStream;
-    scoreStream << "Score: " << score;
+    scoreStream << "SCORE: " << score;
     std::string scoreText = scoreStream.str();
     for (char c : scoreText) {
         glutBitmapCharacter(GLUT_BITMAP_HELVETICA_18, c);
     }
-
-    // Cheat button
-    if (showCheatButton && !gameOver) {
-        glColor3f(0.3f, 0.3f, 0.3f);
-        glBegin(GL_QUADS);
-        glVertex2f(WIDTH - 120, 40);
-        glVertex2f(WIDTH - 20, 40);
-        glVertex2f(WIDTH - 20, 80);
-        glVertex2f(WIDTH - 120, 80);
-        glEnd();
-
-        glColor3f(1.0f, 1.0f, 1.0f);
-        glRasterPos2f(WIDTH - 110, 60);
-        std::string buttonText = "Cheat +5";
-        for (char c : buttonText) {
-            glutBitmapCharacter(GLUT_BITMAP_HELVETICA_12, c);
-        }
-    }
-
     // Controls
     glColor3f(1.0f, 1.0f, 1.0f);
-    glRasterPos2f(10, 20);
+    glRasterPos2f(10, HEIGHT-1000);
     std::string controlsText = "Controls: WASD - move, Q/E - up/down, P - pause, LMB - rotate, RMB - zoom";
     for (char c : controlsText) {
-        glutBitmapCharacter(GLUT_BITMAP_HELVETICA_12, c);
+        glutBitmapCharacter(GLUT_BITMAP_HELVETICA_18, c);
     }
 
     // Game state messages
